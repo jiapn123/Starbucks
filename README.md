@@ -1,4 +1,4 @@
-# 스타벅스 매장수 분석
+# 스타벅스 매장수 분석 [전체 PPT 보기](https://www.canva.com/design/DAF1gt3u3WE/wF1yCllJLeACjgJ-C0VNOQ/view)
 
 ### 1. 데이터 그롤링 및 전처리
 - 01.데이터 수집.ipynb
@@ -28,5 +28,3 @@
 - 가설 5 식업소 확장 중인 상권 스타벅스 매장 수가 많은 결과를 얻을 수 있었음
 <img width="500" src="img/가설5 외식업 상권 특정.png">
 <img width="500" src="img/가설5 외식업 상권 산점도.png">
-
-[전체 PPT 보기](https://www.canva.com/design/DAF1gt3u3WE/wF1yCllJLeACjgJ-C0VNOQ/view)
