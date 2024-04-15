@@ -1,4 +1,4 @@
-# 스타벅스 매장수 분석 [전체 PPT 보기](https://www.canva.com/design/DAF1gt3u3WE/wF1yCllJLeACjgJ-C0VNOQ/view)
+# 스타벅스 매장 입지 결정 분석 [전체 PPT 보기](https://www.canva.com/design/DAF1gt3u3WE/wF1yCllJLeACjgJ-C0VNOQ/view)
 
 ### 1. 데이터 그롤링 및 전처리
 - 01.데이터 수집.ipynb
